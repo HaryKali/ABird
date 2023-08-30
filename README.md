@@ -1,15 +1,15 @@
-#ABird bird identification
+# ABird bird identification
 
 
 
 
-##Current Phase Alpha Second Round<br>
+## Current Phase Alpha Second Round<br>
 
 Uploaded dataset and model testing, local testing passed
 
 
 
-##Regarding:
+## Regarding:
 
 A major assignment in ouc software engineering, based on MobileNet. If you have any questions, please raise an issue or pull<br>
 
