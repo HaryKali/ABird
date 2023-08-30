@@ -1,12 +1,16 @@
-# ABird 鸟类识别
+#ABird bird identification
 
 
-## 当前阶段 Alpha 第二轮<br>
-已上传数据集和模型测试，本地测试通过
 
 
-## 关于：
- ouc软件工程的大作业，基于MobileNet，如有任何问题欢迎raise issue或pull<br>
- 项目已经完结，如果需要任何技术支持请随时raise
- 
-  
+##Current Phase Alpha Second Round<br>
+
+Uploaded dataset and model testing, local testing passed
+
+
+
+##Regarding:
+
+A major assignment in ouc software engineering, based on MobileNet. If you have any questions, please raise an issue or pull<br>
+
+The project has been completed. If you need any technical support, please feel free to raise it at any time
